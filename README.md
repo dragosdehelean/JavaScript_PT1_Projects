@@ -4,7 +4,7 @@ Trainer: @Dragos Dehelean
 
 **Studenti**:
 
-* [Lorena]() 
+* [Lorena](https://github.com/Lorena4/JavaScript-Projects) 
 * [Radu]()
 * [Vlad]()
 * [Mihai]()
@@ -12,3 +12,4 @@ Trainer: @Dragos Dehelean
 * [Roman]()
 * [Cristin]()
 * [Andrei](https://github.com/ctrlAndrei/JavaScript-Projects)
+* [Lilian]()
