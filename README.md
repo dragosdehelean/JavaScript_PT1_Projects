@@ -9,7 +9,7 @@ Trainer: @Dragos Dehelean
 * [Vlad](https://github.com/meemknight/jsProjects)
 * [Mihai](https://github.com/ManuMihai/Proiecte-JavaScript_StepIT)
 * [Erick](https://github.com/andreaserick/JavaScript-Projects)
-* [Roman]()
+* Roman
 * [Lilian](https://github.com/LilianMiron/JavaScript-projects)
 * [Cristin](https://github.com/ghihaniscristin/StepIT_webdev_projects/)
 * [Andrei](https://github.com/ctrlAndrei/JavaScript-Projects)
