@@ -14,5 +14,6 @@ Trainer: @Dragos Dehelean
 * [Cristin](https://github.com/ghihaniscristin/StepIT_webdev_projects/)
 * [Andrei](https://github.com/ctrlAndrei/JavaScript-Projects)
 * [Catalin](https://github.com/constantinilisan/Link-aplicatii-curs-JS_Catalin-Ilisan)
+* [Horace](https://github.com/horace373/JavaScript)
 
 
